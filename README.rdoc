@@ -5,24 +5,17 @@ application up and running.
 
 Things you may want to cover:
 
-* Ruby version
+* Ruby version - 2.0.0-p598
 
-* System dependencies
+* Rails version 4.0.0
 
-* Configuration
+* Deployed using Refinery
 
-* Database creation
+* Database Mysql
 
-* Database initialization
+* Database is initialized empty
 
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
+* Deployment Pending
 
 Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+<tt>Zooki is a Zoomcar wiki app which has been deployed using refinery-cms</tt>.
